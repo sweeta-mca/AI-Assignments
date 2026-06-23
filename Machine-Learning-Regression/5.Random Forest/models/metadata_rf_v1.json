@@ -1,0 +1,14 @@
+{
+    "model_name": "RandomForestRegressor",
+    "version": "v1",
+    "trained_on": "2026-06-22 16:56:43",
+    "r2_score": 0.91061539226689,
+    "hyperparameters": {
+        "n_estimators": 50,
+        "max_depth": 5,
+        "min_samples_split": 2,
+        "min_samples_leaf": 1,
+        "max_features": null,
+        "bootstrap": true
+    }
+}

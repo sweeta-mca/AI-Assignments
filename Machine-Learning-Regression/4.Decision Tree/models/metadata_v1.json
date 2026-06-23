@@ -1,0 +1,13 @@
+{
+    "model_name": "DecisionTreeRegressor",
+    "version": "v1",
+    "trained_on": "2026-06-20 23:15:29",
+    "r2_score": 0.9564860381659932,
+    "hyperparameters": {
+        "criterion": "absolute_error",
+        "splitter": "best",
+        "max_depth": null,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2
+    }
+}
